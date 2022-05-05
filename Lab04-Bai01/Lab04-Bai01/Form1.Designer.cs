@@ -118,7 +118,7 @@ namespace Lab04_Bai01
             this.Controls.Add(this.tbURL);
             this.Controls.Add(this.btGet);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Lab04-Bai01";
             this.ResumeLayout(false);
             this.PerformLayout();
 
