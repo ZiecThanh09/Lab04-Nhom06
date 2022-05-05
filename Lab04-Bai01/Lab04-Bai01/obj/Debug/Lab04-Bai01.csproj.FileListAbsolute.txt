@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Lab04-Nhom06\Lab04-Bai01\Lab04-Bai01\bin\Debug\Lab04-Bai01.exe.config
+C:\Users\Admin\source\repos\Lab04-Nhom06\Lab04-Bai01\Lab04-Bai01\bin\Debug\Lab04-Bai01.exe
+C:\Users\Admin\source\repos\Lab04-Nhom06\Lab04-Bai01\Lab04-Bai01\bin\Debug\Lab04-Bai01.pdb
+C:\Users\Admin\source\repos\Lab04-Nhom06\Lab04-Bai01\Lab04-Bai01\obj\Debug\Lab04-Bai01.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Lab04-Nhom06\Lab04-Bai01\Lab04-Bai01\obj\Debug\Lab04_Bai01.Form1.resources
+C:\Users\Admin\source\repos\Lab04-Nhom06\Lab04-Bai01\Lab04-Bai01\obj\Debug\Lab04_Bai01.Properties.Resources.resources
+C:\Users\Admin\source\repos\Lab04-Nhom06\Lab04-Bai01\Lab04-Bai01\obj\Debug\Lab04-Bai01.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Lab04-Nhom06\Lab04-Bai01\Lab04-Bai01\obj\Debug\Lab04-Bai01.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Lab04-Nhom06\Lab04-Bai01\Lab04-Bai01\obj\Debug\Lab04-Bai01.exe
+C:\Users\Admin\source\repos\Lab04-Nhom06\Lab04-Bai01\Lab04-Bai01\obj\Debug\Lab04-Bai01.pdb
