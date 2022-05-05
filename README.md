@@ -1,2 +1,12 @@
 # Lab04-Nhom06
 Working with Web Server in C#
+
+PHÂN CÔNG CÔNG VIỆC: 
+
+BÀI 1: NGUYỄN QUỐC THỊNH - 20521964
+
+BÀI 2: THÁI THỊ NHUNG - 20521726
+
+BÀI 3: NGUYỄN THỊ KIM THUỲ - 20522004
+
+BÀI 4: DIỆC THÀNH (20521909) - NGUYỄN HOÀNG ANH ĐỨC (20520451)
