@@ -66,6 +66,7 @@ namespace Lab04_Bai01
         {
             tbURL.Text = null;
             rtbHTML.Text = null;
+            lbNote.Text = null;
         }
 
         private void btClose_Click(object sender, EventArgs e)
