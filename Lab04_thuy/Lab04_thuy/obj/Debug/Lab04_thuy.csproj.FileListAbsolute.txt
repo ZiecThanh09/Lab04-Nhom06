@@ -8,3 +8,13 @@ D:\LT Mạng căn bản\TH\Lab04_thuy\Lab04_thuy\obj\Debug\Lab04_thuy.csproj.Cor
 D:\LT Mạng căn bản\TH\Lab04_thuy\Lab04_thuy\obj\Debug\Lab04_thuy.exe
 D:\LT Mạng căn bản\TH\Lab04_thuy\Lab04_thuy\obj\Debug\Lab04_thuy.pdb
 D:\LT Mạng căn bản\TH\Lab04_thuy\Lab04_thuy\obj\Debug\Lab04_thuy.Lab04_Bai03.resources
+C:\Users\THUY\source\repos\Lab04-Nhom06\Lab04_thuy\Lab04_thuy\bin\Debug\Lab04_thuy.exe.config
+C:\Users\THUY\source\repos\Lab04-Nhom06\Lab04_thuy\Lab04_thuy\bin\Debug\Lab04_thuy.exe
+C:\Users\THUY\source\repos\Lab04-Nhom06\Lab04_thuy\Lab04_thuy\bin\Debug\Lab04_thuy.pdb
+C:\Users\THUY\source\repos\Lab04-Nhom06\Lab04_thuy\Lab04_thuy\obj\Debug\Lab04_thuy.csproj.AssemblyReference.cache
+C:\Users\THUY\source\repos\Lab04-Nhom06\Lab04_thuy\Lab04_thuy\obj\Debug\Lab04_thuy.Lab04_Bai03.resources
+C:\Users\THUY\source\repos\Lab04-Nhom06\Lab04_thuy\Lab04_thuy\obj\Debug\Lab04_thuy.Properties.Resources.resources
+C:\Users\THUY\source\repos\Lab04-Nhom06\Lab04_thuy\Lab04_thuy\obj\Debug\Lab04_thuy.csproj.GenerateResource.cache
+C:\Users\THUY\source\repos\Lab04-Nhom06\Lab04_thuy\Lab04_thuy\obj\Debug\Lab04_thuy.csproj.CoreCompileInputs.cache
+C:\Users\THUY\source\repos\Lab04-Nhom06\Lab04_thuy\Lab04_thuy\obj\Debug\Lab04_thuy.exe
+C:\Users\THUY\source\repos\Lab04-Nhom06\Lab04_thuy\Lab04_thuy\obj\Debug\Lab04_thuy.pdb

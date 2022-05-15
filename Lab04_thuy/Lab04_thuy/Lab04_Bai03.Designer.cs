@@ -33,11 +33,13 @@ namespace Lab04_thuy
             this.tbURL = new System.Windows.Forms.TextBox();
             this.tbDesFile = new System.Windows.Forms.TextBox();
             this.rtbContent = new System.Windows.Forms.RichTextBox();
+            this.label1 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // btnDownload
             // 
-            this.btnDownload.Location = new System.Drawing.Point(600, 15);
+            this.btnDownload.Location = new System.Drawing.Point(666, 12);
             this.btnDownload.Name = "btnDownload";
             this.btnDownload.Size = new System.Drawing.Size(122, 31);
             this.btnDownload.TabIndex = 0;
@@ -47,16 +49,16 @@ namespace Lab04_thuy
             // 
             // tbURL
             // 
-            this.tbURL.Location = new System.Drawing.Point(42, 17);
+            this.tbURL.Location = new System.Drawing.Point(188, 14);
             this.tbURL.Name = "tbURL";
-            this.tbURL.Size = new System.Drawing.Size(495, 26);
+            this.tbURL.Size = new System.Drawing.Size(472, 26);
             this.tbURL.TabIndex = 1;
             // 
             // tbDesFile
             // 
-            this.tbDesFile.Location = new System.Drawing.Point(42, 49);
+            this.tbDesFile.Location = new System.Drawing.Point(188, 46);
             this.tbDesFile.Name = "tbDesFile";
-            this.tbDesFile.Size = new System.Drawing.Size(495, 26);
+            this.tbDesFile.Size = new System.Drawing.Size(472, 26);
             this.tbDesFile.TabIndex = 2;
             // 
             // rtbContent
@@ -67,16 +69,36 @@ namespace Lab04_thuy
             this.rtbContent.TabIndex = 3;
             this.rtbContent.Text = "";
             // 
-            // Form1
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(12, 17);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(46, 20);
+            this.label1.TabIndex = 4;
+            this.label1.Text = "URL ";
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(8, 49);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(174, 20);
+            this.label2.TabIndex = 5;
+            this.label2.Text = "Location and File name";
+            // 
+            // Lab04_Bai03
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.rtbContent);
             this.Controls.Add(this.tbDesFile);
             this.Controls.Add(this.tbURL);
             this.Controls.Add(this.btnDownload);
-            this.Name = "Form1";
+            this.Name = "Lab04_Bai03";
             this.Text = "Form1";
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -89,6 +111,8 @@ namespace Lab04_thuy
         private System.Windows.Forms.TextBox tbURL;
         private System.Windows.Forms.TextBox tbDesFile;
         private System.Windows.Forms.RichTextBox rtbContent;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label label2;
     }
 }
 

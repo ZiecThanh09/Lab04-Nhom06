@@ -20,13 +20,7 @@ namespace Lab04_thuy
 
         public void Get_Content(WebClient myClient)
         {
-            if (tbURL.Text.Trim() == "")
-            {
-                MessageBox.Show("Please input URL",
-                "Warning", MessageBoxButtons.OK,
-                MessageBoxIcon.Warning);
-                return;
-            }
+            
             try
             {
                 byte[] response = myClient.DownloadData(tbURL.Text);
@@ -52,8 +46,21 @@ namespace Lab04_thuy
 
         private void btnDownload_Click(object sender, EventArgs e)
         {
+            if (tbURL.Text.Trim() == "")
+            {
+                MessageBox.Show("Please input URL",
+                "Warning", MessageBoxButtons.OK,
+                MessageBoxIcon.Warning);
+                return;
+            }
             WebClient myClient = new WebClient();
-
+            if(tbDesFile.Text == "")
+            {
+                MessageBox.Show("Please input Save location and File name",
+                "Warning", MessageBoxButtons.OK,
+                MessageBoxIcon.Warning);
+                return;
+            }
             try
             {
                 myClient.DownloadFile(tbURL.Text, tbDesFile.Text);
@@ -65,7 +72,6 @@ namespace Lab04_thuy
             {
                 rtbContent.Text = wex.Message;
             }
-
             Get_Content(myClient);
 
         }
