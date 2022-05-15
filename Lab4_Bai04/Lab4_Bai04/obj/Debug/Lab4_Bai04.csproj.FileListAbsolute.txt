@@ -1,0 +1,28 @@
+C:\Users\User\Desktop\UIT\Lập Trình Mạng Căn Bản\Thực Hành\Bài Làm\Lab4_Bai04\Lab4_Bai04\bin\Debug\Lab4_Bai04.exe.config
+C:\Users\User\Desktop\UIT\Lập Trình Mạng Căn Bản\Thực Hành\Bài Làm\Lab4_Bai04\Lab4_Bai04\bin\Debug\Lab4_Bai04.exe
+C:\Users\User\Desktop\UIT\Lập Trình Mạng Căn Bản\Thực Hành\Bài Làm\Lab4_Bai04\Lab4_Bai04\bin\Debug\Lab4_Bai04.pdb
+C:\Users\User\Desktop\UIT\Lập Trình Mạng Căn Bản\Thực Hành\Bài Làm\Lab4_Bai04\Lab4_Bai04\obj\Debug\Lab4_Bai04.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\UIT\Lập Trình Mạng Căn Bản\Thực Hành\Bài Làm\Lab4_Bai04\Lab4_Bai04\obj\Debug\Lab4_Bai04.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\UIT\Lập Trình Mạng Căn Bản\Thực Hành\Bài Làm\Lab4_Bai04\Lab4_Bai04\obj\Debug\Lab4_Bai04.Bai04.resources
+C:\Users\User\Desktop\UIT\Lập Trình Mạng Căn Bản\Thực Hành\Bài Làm\Lab4_Bai04\Lab4_Bai04\obj\Debug\Lab4_Bai04.Properties.Resources.resources
+C:\Users\User\Desktop\UIT\Lập Trình Mạng Căn Bản\Thực Hành\Bài Làm\Lab4_Bai04\Lab4_Bai04\obj\Debug\Lab4_Bai04.csproj.GenerateResource.cache
+C:\Users\User\Desktop\UIT\Lập Trình Mạng Căn Bản\Thực Hành\Bài Làm\Lab4_Bai04\Lab4_Bai04\obj\Debug\Lab4_Bai04.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\UIT\Lập Trình Mạng Căn Bản\Thực Hành\Bài Làm\Lab4_Bai04\Lab4_Bai04\obj\Debug\Lab4_Bai04.exe
+C:\Users\User\Desktop\UIT\Lập Trình Mạng Căn Bản\Thực Hành\Bài Làm\Lab4_Bai04\Lab4_Bai04\obj\Debug\Lab4_Bai04.pdb
+C:\Users\User\Desktop\UIT\Lập Trình Mạng Căn Bản\Thực Hành\Bài Làm\Lab4_Bai04\Lab4_Bai04\obj\Debug\Lab4_Bai04.ViewSource.resources
+D:\Download\Lab4_Bai04\Lab4_Bai04\bin\Debug\Lab4_Bai04.exe.config
+D:\Download\Lab4_Bai04\Lab4_Bai04\bin\Debug\Lab4_Bai04.exe
+D:\Download\Lab4_Bai04\Lab4_Bai04\bin\Debug\Lab4_Bai04.pdb
+D:\Download\Lab4_Bai04\Lab4_Bai04\obj\Debug\Lab4_Bai04.csproj.AssemblyReference.cache
+D:\Download\Lab4_Bai04\Lab4_Bai04\obj\Debug\Lab4_Bai04.csproj.SuggestedBindingRedirects.cache
+D:\Download\Lab4_Bai04\Lab4_Bai04\obj\Debug\Lab4_Bai04.Bai04.resources
+D:\Download\Lab4_Bai04\Lab4_Bai04\obj\Debug\Lab4_Bai04.Properties.Resources.resources
+D:\Download\Lab4_Bai04\Lab4_Bai04\obj\Debug\Lab4_Bai04.ViewSource.resources
+D:\Download\Lab4_Bai04\Lab4_Bai04\obj\Debug\Lab4_Bai04.csproj.GenerateResource.cache
+D:\Download\Lab4_Bai04\Lab4_Bai04\obj\Debug\Lab4_Bai04.csproj.CoreCompileInputs.cache
+D:\Download\Lab4_Bai04\Lab4_Bai04\obj\Debug\Lab4_Bai04.exe
+D:\Download\Lab4_Bai04\Lab4_Bai04\obj\Debug\Lab4_Bai04.pdb
+D:\Download\Lab4_Bai04\Lab4_Bai04\bin\Debug\HtmlAgilityPack.dll
+D:\Download\Lab4_Bai04\Lab4_Bai04\bin\Debug\HtmlAgilityPack.pdb
+D:\Download\Lab4_Bai04\Lab4_Bai04\bin\Debug\HtmlAgilityPack.xml
+D:\Download\Lab4_Bai04\Lab4_Bai04\obj\Debug\Lab4_Bai04.csproj.CopyComplete
