@@ -23,7 +23,6 @@ namespace Bai02
         {
             rtbResponse.Text = getHTTP(rtbURL.Text, "rtbData = " + rtbData.Text);
         }
-
         public string getHTTP(string szURL, string szPost)
         {
             WebRequest request;

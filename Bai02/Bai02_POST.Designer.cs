@@ -36,11 +36,12 @@
             // 
             // rtbURL
             // 
+            this.rtbURL.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.rtbURL.Location = new System.Drawing.Point(46, 34);
             this.rtbURL.Name = "rtbURL";
             this.rtbURL.Size = new System.Drawing.Size(493, 31);
             this.rtbURL.TabIndex = 0;
-            this.rtbURL.Text = "";
+            this.rtbURL.Text = "http://www.contoso.com/PostAccepter.aspx";
             // 
             // rtbData
             // 
@@ -68,7 +69,7 @@
             this.btnPost.UseVisualStyleBackColor = true;
             this.btnPost.Click += new System.EventHandler(this.btnPost_Click);
             // 
-            // Form1
+            // Bai02_POST
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -77,7 +78,7 @@
             this.Controls.Add(this.rtbResponse);
             this.Controls.Add(this.rtbData);
             this.Controls.Add(this.rtbURL);
-            this.Name = "Form1";
+            this.Name = "Bai02_POST";
             this.Text = "Form1";
             this.ResumeLayout(false);
 
