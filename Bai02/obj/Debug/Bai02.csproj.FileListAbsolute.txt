@@ -1,0 +1,11 @@
+E:\Lab04-Nhom06\Bai02\bin\Debug\Bai02.exe.config
+E:\Lab04-Nhom06\Bai02\bin\Debug\Bai02.exe
+E:\Lab04-Nhom06\Bai02\bin\Debug\Bai02.pdb
+E:\Lab04-Nhom06\Bai02\obj\Debug\Bai02.csproj.AssemblyReference.cache
+E:\Lab04-Nhom06\Bai02\obj\Debug\Bai02.csproj.SuggestedBindingRedirects.cache
+E:\Lab04-Nhom06\Bai02\obj\Debug\Bai02.Form1.resources
+E:\Lab04-Nhom06\Bai02\obj\Debug\Bai02.Properties.Resources.resources
+E:\Lab04-Nhom06\Bai02\obj\Debug\Bai02.csproj.GenerateResource.cache
+E:\Lab04-Nhom06\Bai02\obj\Debug\Bai02.csproj.CoreCompileInputs.cache
+E:\Lab04-Nhom06\Bai02\obj\Debug\Bai02.exe
+E:\Lab04-Nhom06\Bai02\obj\Debug\Bai02.pdb
